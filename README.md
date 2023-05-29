@@ -10,6 +10,9 @@ Hi, I am Helixian. While I enjoy many different languages, Java is the one I am 
 - Quantum Computing
 - Physics
 - Java Bytecode
+### Contact
+- Email: <a href="mailto:helixan@proton.me">helixan@proton.me</a>
+- Discord: Helixan\#2946
 <h3 align="left">Languages</h3>
 <p align="left">
 	<a href="https://www.java.com" target="_blank"> 
