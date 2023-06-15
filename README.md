@@ -11,6 +11,7 @@ Hi, I am Helixian. While I enjoy many different languages, Java is the one I am 
 - Physics
 - Java Bytecode
 - Computational Geometry
+- Linear Algebra
 ### Contact
 - Email: <a href="mailto:helixan@proton.me">helixan@proton.me</a>
 - Discord: Helixan\#2946
