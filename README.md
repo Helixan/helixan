@@ -3,15 +3,11 @@
 Hi, I am Helixian. While I enjoy many different languages, Java is the one I am most fluent in as well as the first language that I learned. I learned how to code in 2017 as well as started to teach others how to code starting in 2020. I am currently in college majoring in Math, Computer Science, and Computer Security. I enjoy problem solving and scaling solutions to function on massive scales. I am especially good at finding logic errors and inefficencies in code as well as implementing fast and effective solutions.
 <br>
 ### Interests
-- Number Theory
 - Cryptography
-- Obfuscation
-- Low-level Languages
-- Quantum Computing
-- Physics
-- Java Bytecode
 - Computational Geometry
 - Linear Algebra
+- Number Theory
+- Quantum Physics
 ### Contact
 - Email: <a href="mailto:helixan@proton.me">helixan@proton.me</a>
 - Discord: Helixan\#2946
