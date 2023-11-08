@@ -11,7 +11,7 @@ Hello, I am Helixian. I have a strong passion for programming and I am particual
 ### Contact
 - Email: <a href="mailto:helixan@proton.me">helixan@proton.me</a>
 - Discord: @helixan *(formally Helixan\#2946)*
-<h3 align="left">Languages</h3>
+### Languages
 <p align="left">
 	<a href="https://www.java.com" target="_blank"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
