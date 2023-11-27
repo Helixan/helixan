@@ -1,6 +1,6 @@
 # &mdash; @Helixan
 
-Hello, I am Helixian. I have a strong passion for programming and I am particually fluent in Java. I learned how to code in 2017 and have since been teaching others how to code, starting in 2020. Currently, I am in college persuing degrees in Math, Computer Science, and Cyber Security. I enjoy problem solving and optimizing solutions to work on large scales. When it comes to problem solving, rather than focusing solely on specific or specialized cases, I prefer to solve the most abstract version of problems. I am particularly proficent at identifying logic errors and inefficencies in code, and I excell at implementing fast and effective solutions. 
+Hello, I am Helixan. I have a strong passion for programming, and I am particularly fluent in Java. I learned how to code in 2017 and have since been teaching others how to code, starting in 2020. Currently, I am in college pursuing degrees in Math, Computer Science, and Cybersecurity. I enjoy problem-solving and optimizing solutions to work on large scales. When it comes to problem-solving, rather than focusing solely on specific or specialized cases, I prefer to solve the most abstract version of problems. I am particularly proficient at identifying logic errors and inefficiencies in code, and I excel at implementing fast and effective solutions.
 <br>
 ### Interests
 - Cryptography
