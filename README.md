@@ -1,6 +1,8 @@
 # &mdash; @Helixan
 
-Hello, I am Helixan. I have a strong passion for programming, and I am particularly fluent in Java. I learned how to code in 2017 and have since been teaching others how to code, starting in 2020. Currently, I am in college pursuing degrees in Math, Computer Science, and Cybersecurity. I enjoy problem-solving and optimizing solutions to work on large scales. When it comes to problem-solving, rather than focusing solely on specific or specialized cases, I prefer to solve the most abstract version of problems. I am particularly proficient at identifying logic errors and inefficiencies in code, and I excel at implementing fast and effective solutions.
+Hello, I am Helixan. I have a strong passion for programming, and I am particularly fluent in Java. I learned how to code in 2017 by creating plugins for different Minecraft servers. I enjoy problem-solving as well as designing highly optimized solutions to problems that can be deployed at scale. When it comes to solving problems, I prefer to solve the most abstract version of the problem possible rather than focusing on special cases.
+
+I am particularly passionate about **Artificial Intelligence** and have spent a large amount of my time in the last few years working on personal projects that take advantage of popular libraries such as **TensorFlow**, **PyTorch**, **LangChain**, **AutoGPT**, and more. My projects range from simple neural networks to more complex language processing models.
 <br>
 ### Interests
 - Cryptography
@@ -8,6 +10,7 @@ Hello, I am Helixan. I have a strong passion for programming, and I am particula
 - Linear Algebra
 - Number Theory
 - Quantum Physics
+- Artificial Intelligence
 ### Contact
 - Email: <a href="mailto:helixan@proton.me">helixan@proton.me</a>
 - Discord: @helixan *(formally Helixan\#2946)*
